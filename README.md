@@ -1,7 +1,7 @@
 # IE-Media-Queries #
 A simple script to use media queries in IE 8 and lower.
 ## Usage ##
-Simply insert the following code into the <head> of your page.
+Simply insert the following Javascript into the <head> of your document.
 
     <!--[if lt IE 9]>
     <script type="text/javascript">
